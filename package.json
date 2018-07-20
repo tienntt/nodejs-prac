@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-express-angular-bootstrap-mysql",
+  "version": "1.0.0",
+  "description": "Building a NodeJS Express web-application to POST/GET data to/from MySQL database - using Sequelize + AngularJS +  Bootstrap view",
+  "main": "entry point: (index.js) server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "NodeJS",
+    "Express",
+    "Bootstrap",
+    "AngularJS",
+    "Sequelize",
+    "MySQL"
+  ],
+  "author": "Tien Nguyen",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mysql2": "^1.5.3",
+    "sequelize": "^4.38.0"
+  }
+}
